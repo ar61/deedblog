@@ -43,10 +43,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/characters/</guid>
-      <description>&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020250208065627.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;/images/Pasted%20image%2020250208065627.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;/posts/felines/&#34;&gt;Felines: &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;/posts/wolves/&#34;&gt;Wolves:&lt;/a&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020250208065627.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+      <content>&lt;p&gt;&lt;img src=&#34;/images/Pasted%20image%2020250208065627.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;/posts/felines/&#34;&gt;Felines: &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;/posts/wolves/&#34;&gt;Wolves:&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -135,10 +135,25 @@ The princess walked away.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/scenes/</guid>
-      <description>&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020250208065646.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;/images/Pasted%20image%2020250208065646.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;/posts/coliseum/&#34;&gt;Coliseum&lt;/a&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020250208065646.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+      <content>&lt;p&gt;&lt;img src=&#34;/images/Pasted%20image%2020250208065646.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;/posts/coliseum/&#34;&gt;Coliseum&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/testing-hostinger-hosting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/testing-hostinger-hosting/</guid>
+      <description>&lt;p&gt;this is a test&lt;/p&gt;
+&lt;p&gt;mountains image:
+![[mountains-8508182_640.jpg]]&lt;/p&gt;</description>
+      <content>&lt;p&gt;this is a test&lt;/p&gt;
+&lt;p&gt;mountains image:
+![[mountains-8508182_640.jpg]]&lt;/p&gt;
 </content>
     </item>
     
