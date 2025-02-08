@@ -8,6 +8,5 @@ tags:
 
 this is a test 
 
-
-mountains image:
-![[mountains-7292778_640.jpg]]
+image of book and pen:
+![[attachments/book-4806076_640.jpg]]

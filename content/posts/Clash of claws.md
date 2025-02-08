@@ -7,7 +7,7 @@ tags:
   - rpggame
 ---
 
-![Image Description](/images/Pasted%20image%2020250208065146.png)
+![Image Description](Pasted%20image%2020250208065146.png)
 
 [Characters:](Characters.md)
 
