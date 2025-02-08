@@ -15,10 +15,10 @@
       <guid>/posts/testing-hostinger-hosting/</guid>
       <description>&lt;p&gt;this is a test&lt;/p&gt;
 &lt;p&gt;image of book and pen:
-![[book-4806076_640.jpg]]&lt;/p&gt;</description>
+!&lt;img src=&#34;book-4806076_640.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
       <content>&lt;p&gt;this is a test&lt;/p&gt;
 &lt;p&gt;image of book and pen:
-![[book-4806076_640.jpg]]&lt;/p&gt;
+!&lt;img src=&#34;book-4806076_640.jpg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
