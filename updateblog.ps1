@@ -5,7 +5,7 @@ $sourcePath = "C:\Users\User\Documents\Abhi\obsidian\Deed\posts"
 $destinationPath = "C:\Users\User\Documents\deedblog\content\posts"
 
 # Set Github repo 
-$myrepo = "reponame"
+$myrepo = "https://github.com/ar61/deedblog.git"
 
 # Set error handling
 $ErrorActionPreference = "Stop"
