@@ -1,3 +1,10 @@
+---
+title: Testing Hostinger
+date: 2025-02-08
+draft: false
+tags:
+  - test
+---
 
 this is a test 
 
