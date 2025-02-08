@@ -9,4 +9,4 @@ tags:
 this is a test 
 
 image of book and pen:
-![Image Description](/images/book-4806076_640.jpg)
+![[book-4806076_640.jpg]]
