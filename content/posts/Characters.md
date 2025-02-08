@@ -1,4 +1,4 @@
-![Image Description](Pasted%20image%2020250208065627.png)
+![[characters.png]]
 
 [Felines: ](Felines.md)
 

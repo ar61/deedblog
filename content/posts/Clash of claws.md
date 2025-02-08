@@ -6,8 +6,7 @@ tags:
   - clashofclaws
   - rpggame
 ---
-
-![Image Description](Pasted%20image%2020250208065146.png)
+![[splash_page.png]]
 
 [Characters:](Characters.md)
 
